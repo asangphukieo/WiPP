@@ -24,6 +24,8 @@ Ubuntu 18 (Bionic Beaver) is not supported yet due to lacking support of incorpo
 
 ## Installation
 You can install **WiPP** using the following command:
+
+#need conda=4.5.13 >>> conda install -n base conda=4.5.13
 ```bash
 git clone https://github.com/bihealth/WiPP.git
 cd WiPP
